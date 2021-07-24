@@ -1,6 +1,6 @@
 Script to get vaccine slot available notification/alarm.
 
-#To install requirements
+# To install requirements
 `pip install -r requirements.py`
 
 # To run the scipt
